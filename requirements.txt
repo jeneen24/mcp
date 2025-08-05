@@ -1,0 +1,7 @@
+fastmcp
+flask
+torch
+torchvision
+matplotlib
+pillow
+six
