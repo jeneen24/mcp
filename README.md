@@ -10,8 +10,7 @@ This project is a multi-functional AI agent built using [FastMCP](https://github
 
 ## 📁 Project Structure
 
-task2/
-│
+
 ├── main.py # Main script to run the MCP agent
 ├── chatbot.py # Arabic legal chatbot logic
 ├── vae_model.py # VAE model definitions (Encoder, Decoder, VAE)
@@ -61,6 +60,7 @@ Or use the pre-trained model in: output/vae_epoch_50.pth
 
 Run the MCP agent
 python main.py
+
 
 
 
