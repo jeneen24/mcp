@@ -1,0 +1,41 @@
+[
+  {
+    "Google search": {
+      "command": "C:\\Users\\Bolbol\\.local\\bin\\uv.EXE",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\Bolbol\\Downloads\\task2\\task2\\main.py"
+      ]
+    }
+  },
+  {
+    "legal_chat": {
+      "command": "C:\\Users\\Bolbol\\.local\\bin\\uv.EXE",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\Bolbol\\Downloads\\task2\\task2\\main.py"
+      ]
+    }
+  },
+  {
+    "vae_generate": {
+      "command": "C:\\Users\\Bolbol\\.local\\bin\\uv.EXE",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\Bolbol\\Downloads\\task2\\task2\\main.py"
+      ]
+    }
+  }
+]
